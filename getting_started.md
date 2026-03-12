@@ -240,7 +240,11 @@ In this case, the duckyScript would be `CONTROL ALT D`.
 
 ### Launching Apps on macOS
 
-Go to `System Preferences` -> `Keyboard` -> `Shortcuts` -> `App Shortcuts`:
+Unfortunately with MacOS, you can’t create keyboard shortcuts for general purpose tasks such as opening an app. The simplest way is simply to invoke Spotlight via the Command-Space shortcut and type the name of the app.
+
+![Alt text](resources/pics/app/mac_spotlight.png)
+
+Within a given open app, you can create specific shortcuts by going to `System Preferences` -> `Keyboard` -> `Shortcuts` -> `App Shortcuts`:
 
 Press `+` button, select app, assign a hotkey, and set up duckyPad accordingly:
 
